@@ -47,8 +47,6 @@ git pull upstream master
 
 **8.** Make changes in the source code after getting yourself assigned by the mentors.
 
-<p align="center"><img width=35% src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif"></p>
-
 **9.** Add and then commit your changes.
 
  ```
