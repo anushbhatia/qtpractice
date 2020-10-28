@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/file.png</file>
+        <file>img/new-file.png</file>
+        <file>img/save.png</file>
+        <file>img/floppy-disk.png</file>
+        <file>img/paste.png</file>
+        <file>img/open-archive.png</file>
+        <file>img/information.png</file>
+        <file>img/undo.png</file>
+        <file>img/redo.png</file>
+        <file>img/copy.png</file>
+        <file>img/bold.png</file>
+    </qresource>
+</RCC>
