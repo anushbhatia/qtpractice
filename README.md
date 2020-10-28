@@ -80,3 +80,6 @@ git push -u origin <your_branch_name>
 - Bold
 - Redo
 - Undo
+- Cut
+- Copy 
+- Paste
